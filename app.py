@@ -1037,6 +1037,7 @@ def build_interface():
         "giữa ba tình huống, kèm kiểm định hậu định Tukey HSD khi ANOVA có ý nghĩa.\n\n"
         "*Ứng dụng trình bày kết quả thống kê để người đọc tự đánh giá; không tự kết luận "
         "giả thuyết được chấp nhận hay bác bỏ.*"
+        "*Ứng dụng này không được sử dụng cho mục đích thương mại "
     )
 
 
